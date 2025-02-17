@@ -1,7 +1,7 @@
 #TurtleGraphics.py
-#Name:
-#Date:
-#Assignment:
+#Name: Bennett McDonald    
+#Date: 2/16/25
+#Assignment: turtle graphic
 
 import turtle
 
